@@ -16,3 +16,9 @@ h1{
     P{
         text-align: justify;
     }
+aside {
+    color:#f2fffc;
+    text-align:center;
+    background-color: #3c1d3d;
+       
+}
